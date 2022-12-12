@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX School"
+=======
+ALX
+>>>>>>> a4c890ee018b85e15110783c6f80c9fb6d60a1a3
